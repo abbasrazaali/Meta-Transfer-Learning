@@ -1,0 +1,8 @@
+0:giraffe
+1:zebra
+2:horse
+3:sheep
+4:bear
+5:cat
+6:bird
+7:dog

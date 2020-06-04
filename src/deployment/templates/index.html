@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <title>VoiceNet - an ainfinity medical imaging asset</title>
+    <head><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"></head>
+    <body>
+        <div class="container">
+            <h3>Diagnosis of Pulmonary Tuberculosis</h3>
+            <form method="POST" enctype="multipart/form-data">
+                <input type="file" name="query_img"><br>
+                <input type="submit">
+            </form>
+            <h4>Original X-ray:</h4>
+            {% if query_path %}
+            <img src="data:image/png;base64,{{ query_path }}"/>
+            <!--<img src="{{ query_path }}" height="350px" width="350px">-->
+            {% endif %}
+            <h4>Dignosis:</h4>
+            <!--<figure style="float: left; margin-right: 20px; margin-bottom: 20px;">-->
+            <figcaption>{{ scores_path }}</figcaption>   <!-- scores[0]-->
+            {% if scores %}
+            <img src="data:;base64,{{ scores }}"/>
+            <!--<img src="{{ scores }}" height="350px" width="350px"> -->       <!-- scores[1]-->
+            {% endif %}
+            <!--</figure>
+
+        </div>
+        </div>
+    </body>
+</html>
+
+

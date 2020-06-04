@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a05f758a-a927-42c0-a124-b87f5dd60bf4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MetaVision$chest_xray_2_dataset.coverage" NAME="chest_xray_2_dataset Coverage Results" MODIFIED="1535957845010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/MetaVision$main.coverage" NAME="main Coverage Results" MODIFIED="1536148776822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/MetaVision$metavision.coverage" NAME="metavision Coverage Results" MODIFIED="1536732173935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MetaVision$serve.coverage" NAME="serve Coverage Results" MODIFIED="1536316597518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/deployment" />
+    <SUITE FILE_PATH="coverage/MetaVision$chest_xray_2_dataset__1_.coverage" NAME="chest_xray_2_dataset (1) Coverage Results" MODIFIED="1536062982670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/data_preparation" />
+    <SUITE FILE_PATH="coverage/MetaVision$ptb_x_ray_dataset.coverage" NAME="ptb_x_ray_dataset Coverage Results" MODIFIED="1537076285248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/data_preparation" />
+    <SUITE FILE_PATH="coverage/MetaVision$x_ray_dataset.coverage" NAME="x_ray_dataset Coverage Results" MODIFIED="1536063124345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/data_preparation" />
+    <SUITE FILE_PATH="coverage/MetaVision$grad_cam.coverage" NAME="grad_cam Coverage Results" MODIFIED="1536213609671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1310173046">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="20" />
+          <entry key="project.open.time.11" value="14" />
+          <entry key="project.open.time.12" value="10" />
+          <entry key="project.open.time.13" value="8" />
+          <entry key="project.open.time.14" value="5" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.3" value="8" />
+          <entry key="project.open.time.4" value="20" />
+          <entry key="project.open.time.5" value="14" />
+          <entry key="project.open.time.6" value="17" />
+          <entry key="project.open.time.7" value="23" />
+          <entry key="project.open.time.8" value="27" />
+          <entry key="project.open.time.9" value="20" />
+          <entry key="project.opened" value="195" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LICENSE" value="1" />
+          <entry key="checkpoint" value="11" />
+          <entry key="ckpt" value="1" />
+          <entry key="gitkeep" value="2" />
+          <entry key="html" value="2" />
+          <entry key="ini" value="1" />
+          <entry key="jpg" value="1" />
+          <entry key="md" value="2" />
+          <entry key="pem" value="1" />
+          <entry key="png" value="3" />
+          <entry key="py" value="68" />
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="4" />
+          <entry key="Ini" value="1" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="68" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="html" value="241" />
+          <entry key="ini" value="146" />
+          <entry key="py" value="4468" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="241" />
+          <entry key="Ini" value="146" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="4468" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/transfer_learning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1035">
+              <caret line="82" column="55" selection-start-line="82" selection-start-column="50" selection-end-line="82" selection-end-column="55" />
+              <folding>
+                <element signature="e#260#283#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="241" column="54" selection-start-line="241" selection-start-column="45" selection-end-line="241" selection-end-column="54" />
+              <folding>
+                <element signature="e#273#290#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nets/inception_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7620">
+              <caret line="514" column="32" selection-start-line="514" selection-start-column="29" selection-end-line="514" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1875">
+              <caret line="134" selection-start-line="134" selection-end-line="134" />
+              <folding>
+                <element signature="e#285#294#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#253#271#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/metavision.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/metavision.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nets/inception_resnet_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4740">
+              <caret line="321" column="14" selection-start-line="321" selection-start-column="8" selection-end-line="321" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nets/inception_v3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="49" column="31" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="31" />
+              <folding>
+                <element signature="e#757#795#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gpu_devices</find>
+      <find>pretrained_model</find>
+      <find>infer</find>
+      <find>accuracy</find>
+      <find>learn</find>
+      <find>ho</find>
+      <find>mode</find>
+      <find>operation</find>
+      <find>labels</find>
+      <find>labels.txt</find>
+      <find>self.end_points, self.logits, self.input_tensor, uploaded_img_path</find>
+      <find>Gradiant Cam failed</find>
+      <find>plt</find>
+      <find>uploaded_img_path</find>
+      <find>print</find>
+      <find>request</find>
+      <find>str</find>
+      <find>ent</find>
+      <find>b64encode</find>
+      <find>imgage</find>
+      <find>optimi</find>
+      <find>entrop</find>
+      <find>entropy</find>
+      <find>imagen</find>
+      <find>graph</find>
+      <find>summa</find>
+      <find>softm</find>
+      <find>entr</find>
+      <find>entropies</find>
+      <find>predi</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/notes" />
+        <option value="$PROJECT_DIR$/src/inception_TL.py" />
+        <option value="$PROJECT_DIR$/src/inceptionTransferLearning.py" />
+        <option value="$PROJECT_DIR$/src/dataset_utils.py" />
+        <option value="$PROJECT_DIR$/log/inception_resnet/flower/log.txt" />
+        <option value="$PROJECT_DIR$/src/nets/inception_resnet_v2.py" />
+        <option value="$PROJECT_DIR$/src/tensorflow_finetune.py" />
+        <option value="$PROJECT_DIR$/src/caltech.py" />
+        <option value="$PROJECT_DIR$/src/train_flowers.py" />
+        <option value="$PROJECT_DIR$/src/xray_dataset.py" />
+        <option value="$PROJECT_DIR$/src/x_ray_dataset.py" />
+        <option value="$PROJECT_DIR$/src/get_data.py" />
+        <option value="$PROJECT_DIR$/src/utils.py" />
+        <option value="$PROJECT_DIR$/output/inception_resnetV2/flower/accuracy.txt" />
+        <option value="$PROJECT_DIR$/src/scraper.py" />
+        <option value="$PROJECT_DIR$/src/datasets/chestXray/scraper.py" />
+        <option value="$PROJECT_DIR$/src/datasets/chestXray/process.py" />
+        <option value="$PROJECT_DIR$/src/preprocessing/inception_preprocessing.py" />
+        <option value="$PROJECT_DIR$/src/vgg.py" />
+        <option value="$PROJECT_DIR$/src/nets/vgg.py" />
+        <option value="$PROJECT_DIR$/src/analysis.py" />
+        <option value="$PROJECT_DIR$/src/imagenet_dataset.py" />
+        <option value="$PROJECT_DIR$/src/caltech_dataset.py" />
+        <option value="$PROJECT_DIR$/src/dog_cat.py" />
+        <option value="$PROJECT_DIR$/src/food_dataset.py" />
+        <option value="$PROJECT_DIR$/src/nets/inception_v3.py" />
+        <option value="$PROJECT_DIR$/src/chest_xray_2_dataset.py" />
+        <option value="$PROJECT_DIR$/src/preparation/x_ray_dataset.py" />
+        <option value="$PROJECT_DIR$/src/dataset.py" />
+        <option value="$PROJECT_DIR$/src/cam.py" />
+        <option value="$PROJECT_DIR$/src/data_preparation/x_ray_dataset.py" />
+        <option value="$PROJECT_DIR$/model/inception_resnetV2/ptb/checkpoint" />
+        <option value="$PROJECT_DIR$/src/deployment/server.py" />
+        <option value="$PROJECT_DIR$/src/transfer_learning.py" />
+        <option value="$PROJECT_DIR$/metavision.py" />
+        <option value="$PROJECT_DIR$/src/inference.py" />
+        <option value="$PROJECT_DIR$/src/main.py" />
+        <option value="$PROJECT_DIR$/src/deployment/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/grad_cam.py" />
+        <option value="$PROJECT_DIR$/src/data_preparation/ptb_x_ray_dataset.py" />
+        <option value="$PROJECT_DIR$/src/deployment/serve.py" />
+        <option value="$PROJECT_DIR$/config/metavision.ini" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="964" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MetaVision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaVision" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MetaVision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaVision" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MetaVision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaVision" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MetaVision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaVision" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MetaVision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaVision" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="inception_resnetV2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MetaVision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaVision" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="inception_resnetV2" type="462c0819:PsiDirectoryNode" />
+              <item name="ptb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MetaVision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaVision" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="inception_resnetV2" type="462c0819:PsiDirectoryNode" />
+              <item name="ptb" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MetaVision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaVision" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MetaVision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaVision" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MetaVision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaVision" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MetaVision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MetaVision" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/aali/Data/Professional/ADFG/Projects/Vision/MetaVision/src/main.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/preparation" />
+      <recent name="$PROJECT_DIR$/src copy" />
+      <recent name="$PROJECT_DIR$/src/datasets/chestXray" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/model/inceptionV3/ptb" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/deployment" />
+      <recent name="$PROJECT_DIR$/model/inception_resnetV2/ptb" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ptb_x_ray_dataset">
+    <configuration name="grad_cam" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MetaVision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/grad_cam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MetaVision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="metavision" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MetaVision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/metavision.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ptb_x_ray_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MetaVision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/data_preparation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/data_preparation/ptb_x_ray_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MetaVision" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/deployment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/deployment/serve.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.ptb_x_ray_dataset" />
+      <item itemvalue="Python.metavision" />
+      <item itemvalue="Python.grad_cam" />
+      <item itemvalue="Python.serve" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ptb_x_ray_dataset" />
+        <item itemvalue="Python.metavision" />
+        <item itemvalue="Python.serve" />
+        <item itemvalue="Python.grad_cam" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a05f758a-a927-42c0-a124-b87f5dd60bf4" name="Default" comment="" />
+      <created>1511859591633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511859591633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2020757" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.498779" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.26836735" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.501221" side_tool="true" weight="0.24285714" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32959184" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32967034" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32967034" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src copy/analysis.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="598" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src copy/analysis.py</url>
+          <line>257</line>
+          <option name="timeStamp" value="612" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src copy/analysis.py</url>
+          <line>258</line>
+          <option name="timeStamp" value="613" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/data_preparation/food_dataset.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="664" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/inference.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="680" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/data_preparation/chest_xray_2_dataset.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="694" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/data_preparation/chest_xray_2_dataset.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="695" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/data_preparation/chest_xray_2_dataset.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="696" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/transfer_learning.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="716" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/data_preparation/ptb_x_ray_dataset.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="719" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/grad_cam.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="724" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/grad_cam.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="725" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/grad_cam.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="727" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/main.py</url>
+          <line>190</line>
+          <option name="timeStamp" value="728" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="classes.index(pred_class)" language="Python" />
+        <watch expression="probabilities" language="Python" />
+        <watch expression="max(np.squeeze(probabilities))" language="Python" />
+        <watch expression="np.squeeze(probabilities)" language="Python" />
+        <watch expression="probabilities" language="Python" />
+        <watch expression="h[0].sum()" language="Python" />
+        <watch expression="h[0].astype(float)" language="Python" />
+        <watch expression="SUM (probabilities * log(probabilities) )" language="Python" />
+        <watch expression="np.sum(probabilities)" language="Python" />
+        <watch expression="'https://openi.nlm.nih.gov/gridquery.php?q=&amp;it=x,xg&amp;sub=x&amp;m=' + str(1 + 100 * i) + '&amp;n=' + str(100 + 100 * i)" language="Python" />
+        <watch expression="os.path.join(corpus_dir, 'images', file, '.jpg')" language="Python" />
+        <watch expression="os.path.join(corpus_dir, 'images', file + '.jpg')" language="Python" />
+        <watch expression="os.path.join(corpus_dir, 'images', filename + '.jpg')" language="Python" />
+        <watch expression="os.path.join(corpus_dir, 'images', filename + '.jpg')" language="Python" />
+        <watch expression="architecture_layers[:(layer_count + 1)]" language="Python" />
+        <watch expression="os.path.join(subdir, 'images', filename + '.png')" language="Python" />
+        <watch expression="model_dir" language="Python" />
+        <watch expression="tf.train.latest_checkpoint(pretrained_model_dir + '/')" language="Python" />
+        <watch expression="ckpt" language="Python" />
+        <watch expression="probabilities[0]" language="Python" />
+        <watch expression="end_points['Mixed_7a']" language="Python" />
+        <watch expression="tf.sparse_to_dense(1, [2], 1.0)" language="Python" />
+        <watch expression="end_points['Predictions']" language="Python" />
+        <watch expression="uploaded_img_path.split('.')[0] + '_cam.png'" language="Python" />
+        <watch expression="uploaded_img_path[:-4] + '_cam.png'" language="Python" />
+        <watch expression="scores.append(pred_class)" language="Python" />
+        <watch expression="scores[1]" language="Python" />
+        <watch expression="scores[0]" language="Python" />
+        <watch expression="'/'.join(uploaded_img_path.split('/')[2:])" language="Python" />
+        <watch expression="open(uploaded_img_path_orig, 'rb').read()" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>&quot;&quot;&quot;Pre-computes the Gram matrices on a given image.
+    Args:
+    image: 4-D tensor. Input (batch of) image(s).
+    final_endpoint: str, name of the final layer to compute Gram matrices for.
+        Defaults to 'fc8'.
+    Returns:
+    dict mapping layer names to their corresponding Gram matrices.
+    &quot;&quot;&quot;
+    with tf.Session() as session:
+    end_points = vgg.vgg_16(image, final_endpoint=final_endpoint)
+    tf.train.Saver(slim.get_variables('vgg_16')).restore(session, vgg.checkpoint_file())
+    return dict([(key, gram_matrix(value).eval()) for key, value in end_points.iteritems()])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>open(uploaded_img_path_orig, 'rb').read()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>'/'.join(uploaded_img_path.split('/')[2:])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>uploaded_img_path.split('/')[2:]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>uploaded_img_path.split('/')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>uploaded_img_path</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>scores[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>scores</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>scorea</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>scores[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>scores.append(pred_class)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/data_preparation/chest_xray_2_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="88" column="26" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+          <folding>
+            <element signature="e#266#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_preparation/x_ray_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/inception_resnetV2/ptb/ptb_classes.txt" />
+    <entry file="file://$PROJECT_DIR$/pretrained_models/inception_resnetV2/inception_resnet_v2_2016_08_30.ckpt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/inception_resnetV2/ptb/checkpoint" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="1562" selection-start-line="1562" selection-end-line="1562" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/inception_resnetV2/ptb/labels.txt" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/tensorflow/python/platform/gfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/tflearn/helpers/trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2085">
+          <caret line="158" column="17" selection-start-line="158" selection-start-column="17" selection-end-line="158" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/inception_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="254" column="48" selection-start-line="254" selection-start-column="43" selection-end-line="254" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nets/resnet_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="134" column="30" selection-start-line="134" selection-start-column="30" selection-end-line="134" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nets/nets_factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-705" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nets/vgg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="236" column="33" selection-start-line="236" selection-start-column="33" selection-end-line="236" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/deployment/offline.py" />
+    <entry file="file://$PROJECT_DIR$/src/deployment/static/feature/.gitkeep" />
+    <entry file="file://$PROJECT_DIR$/src/deployment/static/uploaded/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/deployment/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/src/deployment/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/certificate/key.pem">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/inceptionV3/ptb/labels.txt" />
+    <entry file="file://$PROJECT_DIR$/src/deployment/static/uploaded/2018-09-07T14:37:17.291884_KG2RA20182019.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/deployment/static/uploaded/CHNCXR_0424_1.png" />
+    <entry file="file://$PROJECT_DIR$/src/deployment/static/uploaded/CHNCXR_0424_1_cam.png" />
+    <entry file="file://$PROJECT_DIR$/src/deployment/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/deployment/feature_extractor.py" />
+    <entry file="file://$PROJECT_DIR$/resources/ptb/checkpoint" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/flask/templating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="120" column="4" selection-start-line="120" selection-start-column="4" selection-end-line="120" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="1597" selection-start-line="1597" selection-end-line="1597" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/skimage/io/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/deployment/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datasets/process_bounding_boxes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-703" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grad_cam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <element signature="e#257#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datasets/chestXray/scraper.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datasets/chestXray/process.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_preparation/ptb_x_ray_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="86" column="11" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
+          <folding>
+            <element signature="e#280#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/deployment/serve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datasets/cifar10.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nets/inception_v2_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nets/resnet_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="198" column="70" selection-start-line="198" selection-start-column="70" selection-end-line="198" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/cifarnet_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/transfer_learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="82" column="55" selection-start-line="82" selection-start-column="50" selection-end-line="82" selection-end-column="55" />
+          <folding>
+            <element signature="e#260#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nets/inception_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7620">
+          <caret line="514" column="32" selection-start-line="514" selection-start-column="29" selection-end-line="514" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+          <folding>
+            <element signature="e#285#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#253#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/metavision.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metavision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nets/inception_resnet_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4740">
+          <caret line="321" column="14" selection-start-line="321" selection-start-column="8" selection-end-line="321" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nets/inception_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="49" column="31" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="31" />
+          <folding>
+            <element signature="e#757#795#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="241" column="54" selection-start-line="241" selection-start-column="45" selection-end-line="241" selection-end-column="54" />
+          <folding>
+            <element signature="e#273#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
